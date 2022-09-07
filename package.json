@@ -1,0 +1,22 @@
+{
+  "name": "sunnysidelandingpage",
+  "version": "1.0.0",
+  "description": "landing page of sunny side challenge frontendmentor ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jtavio/sunnysidelandingpage.git"
+  },
+  "author": "jonathan tavio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jtavio/sunnysidelandingpage/issues"
+  },
+  "homepage": "https://github.com/jtavio/sunnysidelandingpage#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
